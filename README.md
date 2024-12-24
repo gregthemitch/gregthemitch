@@ -25,7 +25,7 @@ Here is a list of projects I've worked on:
 - A convultional neaural network (CNN) to classify restaurants into relative price categories using Google Street View and Yelp data
 - A poverty prediction model using incomplete survey data
 
-#### Web Applications & Software
+#### Web Applications, Software, and Chatbots
 - A web application to help users find relevant businesses equidistant between them and their friends
 - Ask-a-Metric (@IDinsight) a text-to-SQL chatbot designed to provide real time insights via a WhatsApp chat
 - A text-to-SQL chatbot designed to generate maps and summary statistics about Climate Change
