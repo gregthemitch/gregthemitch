@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Here is a list of projects I've worked on:
 
 #### Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,opencv,pytorch)](https://skillicons.dev)
 - A cyberbullying detection algorithm using support vector machines (SVM) and dimensionality reduction
 - A convultional neaural network (CNN) to classify restaurants into relative price categories using Google Street View and Yelp data
 - A poverty prediction model using incomplete survey data
