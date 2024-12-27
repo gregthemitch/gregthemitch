@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=python,go,r,js)](https://skillicons.dev)
+
 I am a current Master's student at the University of Chicago studying Computer Science and Public Policy.
 <!--
 **gregthemitch/gregthemitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,11 +23,13 @@ Here are some ideas to get you started:
 Here is a list of projects I've worked on:
 
 #### Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch)](https://skillicons.dev)
 - A cyberbullying detection algorithm using support vector machines (SVM) and dimensionality reduction
 - A convultional neaural network (CNN) to classify restaurants into relative price categories using Google Street View and Yelp data
 - A poverty prediction model using incomplete survey data
 
 #### Web Applications, Software, and Chatbots
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,html,css,postgres,sqlite,heroku)](https://skillicons.dev)
 - A web application to help users find relevant businesses equidistant between them and their friends ([link](https://github.com/gregthemitch/halfway-search-public))
 - Ask-a-Metric (@IDinsight) a text-to-SQL chatbot designed to provide real time insights via a WhatsApp chat
 - A text-to-SQL chatbot designed to generate maps and summary statistics about Climate Change
