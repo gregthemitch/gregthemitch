@@ -29,7 +29,7 @@ Here is a list of projects I've worked on:
 - A poverty prediction model using incomplete survey data
 
 #### Web Applications, Software, and Chatbots
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,html,css,postgres,sqlite,heroku,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,html,css,postgres,sqlite,heroku,aws,docker,gcp)](https://skillicons.dev)
 - A web application to help users find relevant businesses equidistant between them and their friends ([link](https://github.com/gregthemitch/halfway-search-public))
 - Ask-a-Metric (@IDinsight) a text-to-SQL chatbot designed to provide real time insights via a WhatsApp chat
 - A text-to-SQL chatbot designed to generate maps and summary statistics about Climate Change
