@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on deploying my Cyberbullying Detection model onto Heroku
+- 🔭 I’m currently studying graph neural networks (GNN) and reinforcment learning (RL)
 - 💬 Ask me about my full stack applications, machine learning models, or AI chatbots
 
 Here is a list of projects I've worked on:
