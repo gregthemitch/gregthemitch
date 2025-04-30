@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=python,go,r,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,r,js,react,ts)](https://skillicons.dev)
 
 I am a current Master's student at the University of Chicago studying Computer Science and Public Policy.
 <!--
